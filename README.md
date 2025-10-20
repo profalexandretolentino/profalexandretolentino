@@ -1,4 +1,4 @@
-<h1 align="center">👨‍🏫 Professor & Desenvolvedor Full Stack (IT Instructor & Full-Stack Developer) &lt;/&gt;</h1></h1>
+<h1 align="center">👨‍🏫 Professor & Dev Full Stack (IT Instructor & Full-Stack Developer) &lt;/&gt;</h1></h1>
 
 <p align="center">
   <b>Seja bem-vindo ao meu perfil!</b> 😄<br>
