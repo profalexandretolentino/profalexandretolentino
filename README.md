@@ -24,9 +24,11 @@ Com experiência no front-end, back-end e na ponte entre teoria e prática, meu 
 
 🧠 Repositórios com conteúdos voltados para:
 - HTML, CSS, JavaScript, TypeScript
-- Node.js, Express, MongoDB
+- Node.js, Express
 - React, Angular
-- Python, Java, SQL
+- Python, Tkinter
+- Java
+- SQL, MongoDB
 - Banco de dados, APIs REST
 - Dicas para iniciantes e projetos educacionais
 - Materiais de apoio para minhas aulas 👨‍🏫
