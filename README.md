@@ -1,114 +1,90 @@
-<h1 align="center">👨‍🏫 Professor & Dev Full Stack (IT Instructor & Full-Stack Developer) &lt;/&gt;</h1></h1>
+# 👨‍🏫 Professor & Dev Full Stack (IT Instructor & Developer) </>
 
-<p align="center">
-  <b>Seja bem-vindo ao meu perfil!</b> 😄<br>
-  Aqui o <i>console.log("conhecimento")</i> é constante! 🚀
-</p>
-
----
+> **Seja bem-vindo ao meu perfil! 😄 Aqui o `console.log("conhecimento")` é constante! 🚀**
 
 ### 👨‍💻 Quem sou eu?
+Sou Professor de TI e Desenvolvedor, com atuação como Full Stack Developer e pesquisador na área de **Inteligência de Dados e Automação**.
 
-Sou **Professor de TI e Desenvolvimento**, com atuação como **Full Stack Developer**.<br>
-Atualmente ministro aulas em projetos como:
-- 📚 **Senac**
-- 🚍 **Qualifica DF Móvel**
-- 🏛️ **Qualifica DF**
-- ... e outras iniciativas que espalham conhecimento por aí!
+Atualmente ministro aulas em projetos de impacto, como:
+* 📚 **Senac** | 🏛️ **Qualifica DF**
+* 🤖 **Instrutor de TI (Turmas Técnicas de Inteligência Artificial)**
+* ... e outras iniciativas que espalham conhecimento por aí!
 
-Com experiência no front-end, back-end e na ponte entre teoria e prática, meu objetivo é **formar devs preparados para o mercado** – sempre com bom humor, código limpo e aquele `git push origin master` de motivação! 😅
-
----
+Com experiência no front-end, back-end e na ponte entre teoria e prática, meu objetivo é formar devs preparados para o mercado – sempre com **bom humor**, código limpo e aquele `git push origin main` de motivação! 😅
 
 ### 💡 O que você vai encontrar por aqui?
-
 🧠 Repositórios com conteúdos voltados para:
-- HTML, CSS, JavaScript, TypeScript
-- Node.js, Express
-- React, Angular
-- Python, Tkinter
-- Java
-- SQL, MongoDB
-- Banco de dados, APIs REST
-- Dicas para iniciantes e projetos educacionais
-- Materiais de apoio para minhas aulas 👨‍🏫
+* **Inteligência Artificial & Big Data:** Modelos de IA (minha paixão!), processamento de dados e **SQL** (meu favorito!). 🤖📊
+* **Desenvolvimento Full Stack:** HTML, CSS, JavaScript, TypeScript, React e Node.js.
+* **Infraestrutura & Redes:** Python para automação, Linux/WSL2 e ecossistema **Cisco**. 🌐
+* **IoT (Internet of Things):** Projetos conectando redes e dispositivos inteligentes (como Alexa e Google Home). 🏠🔌
+* **Educação:** Materiais de apoio para minhas aulas e dicas para iniciantes. 👨‍🏫
 
 Se você é aluno, dev em formação ou simplesmente ama tecnologia: **essa casa é sua!** 🏠✨
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas / (Technologies & Tools)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+### 🌐 About Me (English Version)
+**Hi there! 👋**
+
+I'm a Computer Science teacher based in Brazil, currently leading **Technical AI classes** and Full Stack projects. I love connecting theory and real-world practice, focusing on how **Artificial Intelligence** and **Big Data** can transform our society.
+
+💼 **What I'm building right now:**
+* **AI & Automation:** Integrating Machine Learning models with **Network Infrastructure** (Cisco DevNet).
+* **Smart Spaces:** Enthusiast of **IoT** and home automation, exploring how to make everything more connected.
+* **Instruction:** Crafting high-quality materials for the next generation of developers and AI technicians.
+
+Whether you're a student or a tech enthusiast — you're very welcome here! 🙌
+*Remember: Every great dev was once a beginner!*
 
 ---
+
+### 🇯🇵 日本語 (Learning Journey)
+**初めまして、アレキサンダーです。** 👋
+
+私はブラジルで**人工知能 (AI)** とITの先生をしています。 (Sou professor de IA e TI no Brasil.)
+今、**AI**、**ネットワーク自動化**、**ビッグデータ**、そして**日本語**を一生懸命勉強しています。 (Estudo IA, automação de redes, Big Data e japonês com muita dedicação.)
+技術で未来を築きたいです。 (Quero construir o futuro através da tecnologia.)
+
+よろしくお願いします！ (Muito prazer / Conto com sua colaboração!)
+
+---
+
+### 🛠️ Tecnologias & Ferramentas / (Technologies & Tools)
+
+**Core Development & AI**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Data, Infrastructure & Networking**
+![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![BigData](https://img.shields.io/badge/Big_Data-000000?style=for-the-badge&logo=databricks&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🎯 Desafios Atuais (Current Goals)
+- [ ] **AI Thesis:** Finalizar pós-graduação em Inteligência Artificial e Big Data.
+- [ ] **Cisco DevNet:** Unindo automação de redes com modelos preditivos de IA.
+- [ ] **Language:** Evoluindo na proficiência da língua japonesa.
 
 ### 🤝 Vamos nos conectar?
+📸 **Instagram:** [@profalexandretolentino](https://instagram.com/profalexandretolentino)
+💬 Sinta-se à vontade para explorar, abrir issues ou mandar um "oi"!
 
-📸 Me siga no Instagram: [@profalexandretolentino](https://instagram.com/profalexandretolentino)
-
-💬 Sinta-se à vontade para explorar meus repositórios, abrir issues, mandar pull requests ou só dizer um "oi"!<br>
-Ah, e lembre-se: **o único erro que você não pode cometer é deixar de tentar**. 😉
-
----
-
-### 🌐 About me (English version)
-
-Hi there! 👋  
-I'm a **Computer Science and Full Stack Development teacher**, currently teaching in several educational projects in Brazil, such as:
-- 📚 **Senac**
-- 🚍 **Qualifica DF Móvel**
-- 🏛️ **Qualifica DF**
-- ... and many others focused on spreading knowledge and transforming lives through tech!
-
-I have solid experience both in **front-end and back-end development**, and I love connecting theory and real-world practice in the classroom and in code.
+Ah, e lembre-se: o único erro que você não pode cometer é deixar de tentar. 😉
 
 ---
 
-### 💼 What you'll find here
-
-🔎 Repositories and projects related to:
-- HTML, CSS, JavaScript, TypeScript
-- Node.js, Express
-- React, Angular
-- Python
-- Java
-- SQL, MongoDB
-- REST APIs, databases, dev tips
-- Teaching materials for my classes 👨‍🏫
-
-Whether you're a student, junior dev, or just a curious tech enthusiast — **you're very welcome here!** 🙌
-
----
-
-### ⚙️ Tech Stack
-
-Everything I work with, teach, and love:
-
-Same badges as above (HTML, CSS, JS, TS, Python, Java, SQL, Node, React, etc.)
-
----
-
-### 📲 Let's connect
-
-Follow me on Instagram: [@profalexandretolentino](https://instagram.com/profalexandretolentino)
-
-Feel free to explore, fork, star ⭐, or just leave a message.<br>
-Remember: **Every great dev was once a beginner!**
-
----
-
-<p align="center">
-  <i>“Quem ensina aprende ao ensinar. E quem aprende ensina ao aprender.” — Paulo Freire</i> ✨
-</p>
+### 💬 Wisdom / Citação
+> "Quem ensina aprende ao ensinar. E quem aprende ensina ao aprender."
+> — **Paulo Freire** (Brazilian Educator & Philosopher)
+> 
+> "He who teaches learns in the act of teaching, and he who learns teaches in the act of learning."
+> 
+> 「教える者は教える過程で学び、学ぶ者は学ぶ過程で教える。」
