@@ -3,50 +3,45 @@
 > **Seja bem-vindo ao meu perfil! 😄 Aqui o `console.log("conhecimento")` é constante! 🚀**
 
 ### 👨‍💻 Quem sou eu?
-Sou Professor de TI e Desenvolvedor, com atuação como Full Stack Developer e pesquisador na área de **Inteligência de Dados e Automação**.
+Sou Professor de TI e Desenvolvedor, com sólida formação em **Processos Gerenciais**, o que me permite unir gestão estratégica ao desenvolvimento de soluções de **Inteligência de Dados**.
 
 Atualmente ministro aulas em projetos de impacto, como:
 * 📚 **Senac** | 🏛️ **Qualifica DF**
-* 🤖 **Instrutor de TI (Turmas Técnicas de Inteligência Artificial)**
+* 🤖 **Instrutor de TI (Formação Técnica em Inteligência Artificial & Gestão)**
 * ... e outras iniciativas que espalham conhecimento por aí!
 
-Com experiência no front-end, back-end e na ponte entre teoria e prática, meu objetivo é formar devs preparados para o mercado – sempre com **bom humor**, código limpo e aquele `git push origin main` de motivação! 😅
+Com experiência no front-end, back-end e na ponte entre teoria e prática, meu objetivo é formar devs preparados para o mercado – sempre com **bom humor**, código linpo e aquele `git push origin main` de motivação! 😅
 
 ### 💡 O que você vai encontrar por aqui?
 🧠 Repositórios com conteúdos voltados para:
-* **Inteligência Artificial & Big Data:** Modelos de IA (minha paixão!), processamento de dados e **SQL** (meu favorito!). 🤖📊
-* **Desenvolvimento Full Stack:** HTML, CSS, JavaScript, TypeScript, React e Node.js.
-* **Infraestrutura & Redes:** Python para automação, Linux/WSL2 e ecossistema **Cisco**. 🌐
-* **IoT (Internet of Things):** Projetos conectando redes e dispositivos inteligentes (como Alexa e Google Home). 🏠🔌
-* **Educação:** Materiais de apoio para minhas aulas e dicas para iniciantes. 👨‍🏫
-
-Se você é aluno, dev em formação ou simplesmente ama tecnologia: **essa casa é sua!** 🏠✨
+* **Inteligência Artificial & Big Data:** Modelos de IA (Google AI Studio), processamento de dados e **SQL** (meu favorito!). 🤖📊
+* **Desenvolvimento Full Stack:** React (foco principal), Node.js, Express e APIs REST.
+* **Infraestrutura & Redes:** Automação de Redes (**Cisco Ecosystem**), Python (**Flask** & Tkinter) e Linux/WSL2. 🌐
+* **IoT & DevOps:** Práticas de integração contínua e dispositivos inteligentes. 🏠🔌
+* **Gestão & Processos:** Materiais focados em gestão de projetos e carreira tech. 📈
 
 ---
 
 ### 🌐 About Me (English Version)
 **Hi there! 👋**
 
-I'm a Computer Science teacher based in Brazil, currently leading **Technical AI classes** and Full Stack projects. I love connecting theory and real-world practice, focusing on how **Artificial Intelligence** and **Big Data** can transform our society.
+I'm a Computer Science teacher with a background in **Management Processes**, leading **Technical AI classes** and Full Stack projects. I bridge the gap between management and code, focusing on how **Artificial Intelligence** and **Network Automation** can optimize business environments.
 
-💼 **What I'm building right now:**
-* **AI & Automation:** Integrating Machine Learning models with **Network Infrastructure** (Cisco DevNet).
-* **Smart Spaces:** Enthusiast of **IoT** and home automation, exploring how to make everything more connected.
-* **Instruction:** Crafting high-quality materials for the next generation of developers and AI technicians.
-
-Whether you're a student or a tech enthusiast — you're very welcome here! 🙌
-*Remember: Every great dev was once a beginner!*
+💼 **Current Focus:**
+* **AI & API Integration:** Building smart solutions using **Google AI Studio** and REST APIs.
+* **Network Automation:** Scaling infrastructure with Python (Flask) and Cisco technologies.
+* **Tech Management:** Applying managerial processes to software development lifecycles (SDLC).
 
 ---
 
-### 🇯🇵 日本語 (Learning Journey)
-**初めまして、アレキサンダーです。** 👋
+### 🇯🇵 日本語 (Japanese Learning Journey)
+**<ruby>初<rt>はじ</rt></ruby>めまして、アレキサンダーです。** 👋
 
-私はブラジルで**人工知能 (AI)** とITの先生をしています。 (Sou professor de IA e TI no Brasil.)
-今、**AI**、**ネットワーク自動化**、**ビッグデータ**、そして**日本語**を一生懸命勉強しています。 (Estudo IA, automação de redes, Big Data e japonês com muita dedicação.)
-技術で未来を築きたいです。 (Quero construir o futuro através da tecnologia.)
+私はブラジルで**<ruby>人工知能<rt>じんこうちのう</rt></ruby> (AI)** とITの<ruby>先生<rt>せんせい</rt></ruby>をしています。
+今、**<ruby>自動化<rt>じどうか</rt></ruby>**、**ビッグデータ**、そして**<ruby>日本語<rt>にほんご</rt></ruby>**を<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しています。
+技術で<ruby>未来<rt>みらい</rt></ruby>を<ruby>築<rt>きず</rt></ruby>きたいです。
 
-よろしくお願いします！ (Muito prazer / Conto com sua colaboração!)
+よろしくお願いします！
 
 ---
 
@@ -54,28 +49,26 @@ Whether you're a student or a tech enthusiast — you're very welcome here! 🙌
 
 **Core Development & AI**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Data, Infrastructure & Networking**
+**Data & Networking**
 ![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![BigData](https://img.shields.io/badge/Big_Data-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Networks](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=conan&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 🎯 Desafios Atuais (Current Goals)
-- [ ] **AI Thesis:** Finalizar pós-graduação em Inteligência Artificial e Big Data.
-- [ ] **Cisco DevNet:** Unindo automação de redes com modelos preditivos de IA.
-- [ ] **Language:** Evoluindo na proficiência da língua japonesa.
+- [ ] **Post-Graduation:** Concluir especialização em IA e Big Data.
+- [ ] **CCNA/DevNet:** Unindo infraestrutura de redes com modelos de IA.
+- [ ] **Management:** Integrando processos gerenciais à gestão de times técnicos.
 
 ### 🤝 Vamos nos conectar?
 📸 **Instagram:** [@profalexandretolentino](https://instagram.com/profalexandretolentino)
-💬 Sinta-se à vontade para explorar, abrir issues ou mandar um "oi"!
+💬 Sinta-se à vontade para explorar meus repositórios!
 
 Ah, e lembre-se: o único erro que você não pode cometer é deixar de tentar. 😉
 
@@ -86,5 +79,3 @@ Ah, e lembre-se: o único erro que você não pode cometer é deixar de tentar. 
 > — **Paulo Freire** (Brazilian Educator & Philosopher)
 > 
 > "He who teaches learns in the act of teaching, and he who learns teaches in the act of learning."
-> 
-> 「教える者は教える過程で学び、学ぶ者は学ぶ過程で教える。」
