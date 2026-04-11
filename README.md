@@ -1,13 +1,13 @@
-# 👨‍🏫 Professor & Dev Full Stack (IT Instructor & Developer) </>
+# 👨‍🏫 Professor de TI & Dev Full Stack (IT Instructor & Developer) </>
 
 > **Seja bem-vindo ao meu perfil! 😄 Aqui o `console.log("conhecimento")` é constante! 🚀**
 
 ### 👨‍💻 Quem sou eu?
-Sou Professor de TI e Desenvolvedor, com sólida formação em **Processos Gerenciais**, o que me permite unir gestão estratégica à área de **Inteligência de Dados e Automação**.
+Sou Professor de TI e Desenvolvedor Full-Stack, com formação também em **Processos Gerenciais**, o que me permite unir gestão estratégica à área de **Inteligência de Dados e Automação** pensando na qualidade e melhoria contínua.
 
 Atualmente ministro aulas em projetos de impacto, como:
 * 📚 **Senac** | 🏛️ **Qualifica DF**
-* 🤖 **Instrutor de TI (Formação Técnica em Inteligência Artificial, Desenvolvimento de Sistemas & Gestão)**
+* 🤖 **Instrutor de TI (Lecionando para Técnico em Inteligência Artificial, Desenvolvimento de Sistemas & Aprendizagem em Gestão)**
 * ... e outras iniciativas que espalham conhecimento por aí!
 
 Com experiência no front-end, back-end e na ponte entre teoria e prática, meu objetivo é formar devs preparados para o mercado – sempre com **bom humor**, código limpo e aquele `git push origin main` de motivação! 😅
@@ -44,7 +44,7 @@ Whether you're a student or a tech enthusiast — you're very welcome here! 🙌
 
 私はブラジルで**<ruby>人工知能<rt>じんこうちのう</rt></ruby> (AI)** とITの<ruby>先生<rt>せんせい</rt></ruby>をしています。
 今、**<ruby>自動化<rt>じどうか</rt></ruby>**、**ビッグデータ**、そして**<ruby>日本語<rt>にほんご</rt></ruby>**を<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しています。
-技術で<ruby>未来<rt>みらい</rt></ruby>を<ruby>築<rt>きず</rt></ruby>きたいです。
+**<ruby>技術<rt>ぎじゅつ</rt></ruby>**で**<ruby>未来<rt>みらい</rt></ruby>**を**<ruby>築<rt>きず</rt></ruby>きたい**です。
 
 **よろしくお<ruby>願<rt>ねが</rt></ruby>いします！**
 
@@ -67,11 +67,11 @@ Whether you're a student or a tech enthusiast — you're very welcome here! 🙌
 
 ---
 
-### 🎯 Desafios Atuais (Current Goals)
-- [ ] **Post-Graduation:** Concluir especialização em Inteligência Artificial e Big Data.
-- [ ] **CCNA/DevNet:** Unindo infraestrutura de redes com modelos de IA e scripts Python.
-- [ ] **Management:** Integrando processos gerenciais à gestão de times e projetos técnicos.
-- [ ] **Language:** Evoluindo na proficiência da língua japonesa.
+### 🎯 Current Goals
+- [ ] **AI & Big Data:** Concluding post-graduate studies in Artificial Intelligence and Big Data.
+- [ ] **Infrastructure:** Achieving CCNA/DevNet certification and integrating AI models with Python scripts.
+- [ ] **Tech Leadership:** Applying managerial processes to technical team and project management.
+- [ ] **Language:** Reaching proficiency in the Japanese language (JLPT Path).
 
 ### 🤝 Vamos nos conectar?
 📸 **Instagram:** [@profalexandretolentino](https://instagram.com/profalexandretolentino)
