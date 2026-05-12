@@ -1,90 +1,269 @@
-# 👨‍🏫 Professor de TI & Dev Full Stack (IT Instructor & Developer) </>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello World | Olá Mundo | こんにちは
 
-> **Seja bem-vindo ao meu perfil! 😄 Aqui o `console.log("conhecimento")` é constante! 🚀**
+# Backend Engineer → Cloud & DevOps Engineer
 
-### 👨‍💻 Quem sou eu?
-Sou Professor de TI e Desenvolvedor Full-Stack, com formação também em **Processos Gerenciais**, o que me permite unir gestão estratégica à área de **Inteligência de Dados e Automação** pensando na qualidade e melhoria contínua.
+<div align="center">
 
-Atualmente ministro aulas em projetos de impacto, como:
-* 📚 **Senac** | 🏛️ **Qualifica DF**
-* 🤖 **Instrutor de TI (Lecionando para Técnico em Inteligência Artificial, Desenvolvimento de Sistemas & Aprendizagem em Gestão)**
-* ... e outras iniciativas que espalham conhecimento por aí!
+## Senior Backend Engineer | Cloud & DevOps Engineer | IT & Cisco Academy Instructor
 
-Com experiência no front-end, back-end e na ponte entre teoria e prática, meu objetivo é formar devs preparados para o mercado – sempre com **bom humor**, código limpo e aquele `git push origin main` de motivação! 😅
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Backend+Engineering+%7C+Cloud+Architecture+%7C+DevOps;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Node.js+%7C+NestJS+%7C+Distributed+Systems;Infrastructure+as+Code+%7C+CI%2FCD+%7C+Automation;IT+Instructor+%7C+Cisco+Academy+Instructor" />
 
-### 💡 O que você vai encontrar por aqui?
-🧠 Repositórios com conteúdos voltados para:
-* **Inteligência Artificial & Big Data:** Modelos de IA (explorando Google AI Studio), processamento de dados e **SQL**. 🤖📊
-* **Desenvolvimento Full Stack:** HTML, CSS, JavaScript, TypeScript, React e Node.js/Express (APIs REST).
-* **Infraestrutura & Redes:** Automação de Redes (**Cisco Ecosystem**), Python (**Flask** & Tkinter) e Linux/WSL2. 🌐
-* **IoT & DevOps:** Projetos conectando redes, práticas de integração contínua e dispositivos inteligentes (Alexa/Google Home). 🏠🔌
-* **Gestão & Educação:** Materiais de apoio para minhas aulas e conteúdos sobre gestão e carreira tech. 👨‍🏫📈
-
-Se você é aluno, dev em formação ou simplesmente ama tecnologia: **essa casa é sua!** 🏠✨
+</div>
 
 ---
 
-### 🌐 About Me (English Version)
-**Hi there! 👋**
+# 🌎 About Me
 
-I'm a Computer Science teacher with a background in **Management Processes**, currently leading **Technical AI classes and Technical System Development** and Full Stack projects in Brazil. I love connecting theory and real-world practice, focusing on how **Artificial Intelligence** and **Network Automation** can optimize business and educational environments.
+## 🇺🇸 English
 
-💼 **What I'm building right now:**
-* **AI & Automation:** Exploring Machine Learning models and integrating them with **Network Infrastructure** (Cisco DevNet).
-* **Smart Spaces:** Enthusiast of **IoT** and home automation, exploring how to make infrastructure more programmable.
-* **Tech Management:** Applying managerial processes to software development and teaching methodologies.
+Backend Engineer with **20+ years of experience in Information Technology**, specializing in scalable backend systems, cloud infrastructure, distributed architectures, and DevOps engineering.
 
-Whether you're a student or a tech enthusiast — you're very welcome here! 🙌
-*Remember: Every great dev was once a beginner!*
+Currently focused on transitioning into high-level **Cloud & DevOps Engineering**, building production-style environments using:
+
+- AWS Cloud Architecture
+- Terraform (Infrastructure as Code)
+- Docker & Kubernetes
+- CI/CD Automation
+- GitHub Actions
+- Linux Infrastructure
+- Distributed Systems Design
+- Platform Engineering Concepts
+
+Strong background in:
+- Backend Engineering with Node.js & NestJS
+- API Design & Microservices
+- Infrastructure Automation
+- System Reliability
+- Software Engineering Best Practices
+
+In parallel, I work as an **IT Instructor and Cisco Academy Instructor**, teaching programming, networking, infrastructure fundamentals, and cloud concepts — strengthening leadership, communication, mentoring, and technical documentation skills.
+
+Targeting opportunities in:
+- DevOps Engineering
+- Cloud Engineering
+- Platform Engineering
+- Site Reliability Engineering (SRE)
+- Infrastructure Automation
+- Backend Infrastructure
 
 ---
 
-### 🇯🇵 日本語 (Japanese Learning Journey)
-**<ruby>初<rt>はじ</rt></ruby>めまして、アレキサンダーです。** 👋
+## 🇧🇷 Português
 
-私はブラジルで**<ruby>人工知能<rt>じんこうちのう</rt></ruby> (AI)** とITの<ruby>先生<rt>せんせい</rt></ruby>をしています。
-今、**<ruby>自動化<rt>じどうか</rt></ruby>**、**ビッグデータ**、そして**<ruby>日本語<rt>にほんご</rt></ruby>**を<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>しています。
-**<ruby>技術<rt>ぎじゅつ</rt></ruby>**で**<ruby>未来<rt>みらい</rt></ruby>**を**<ruby>築<rt>きず</rt></ruby>きたい**です。
+Engenheiro Backend com **mais de 20 anos de experiência em Tecnologia da Informação**, especializado em sistemas escaláveis, infraestrutura cloud, arquiteturas distribuídas e engenharia DevOps.
 
-**よろしくお<ruby>願<rt>ねが</rt></ruby>いします！**
+Atualmente focado em transição e especialização em:
+- Cloud Computing
+- DevOps
+- Kubernetes
+- Terraform
+- AWS
+- Automação de infraestrutura
+- CI/CD
+- Arquitetura de sistemas distribuídos
+
+Experiência sólida em:
+- Node.js & NestJS
+- APIs REST
+- Microsserviços
+- Linux
+- Infraestrutura como Código (IaC)
+- Engenharia de Software
+
+Também atuo como **Instrutor de TI e Instrutor Cisco Academy**, ensinando programação, infraestrutura, redes e fundamentos cloud.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas / (Technologies & Tools)
+## 🇯🇵 日本語
 
-**Core Development & AI**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<ruby>私<rt>わたし</rt></ruby>は20<ruby>年以上<rt>ねんいじょう</rt></ruby>のIT<ruby>経験<rt>けいけん</rt></ruby>を<ruby>持<rt>も</rt></ruby>つバックエンドエンジニアです。
 
-**Data, Infrastructure & Networking**
-![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=sqlite&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![Networks](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=conan&logoColor=white)
+Node.js と NestJS で スケーラブルな システム と API を <ruby>開発<rt>かいはつ</rt></ruby>しています。
+
+<ruby>現在<rt>げんざい</rt></ruby>は Cloud と DevOps を <ruby>勉強<rt>べんきょう</rt></ruby>しています。
+
+AWS、Terraform、Docker、Kubernetes、CI/CD を <ruby>使<rt>つか</rt></ruby>って <ruby>実践的<rt>じっせんてき</rt></ruby>な プロジェクト を <ruby>作<rt>つく</rt></ruby>っています。
+
+また、IT と Cisco Academy の <ruby>先生<rt>せんせい</rt></ruby>として プログラミング、ネットワーク、インフラ を <ruby>教<rt>おし</rt></ruby>えています。
+
+DevOps Engineer と Cloud Engineer の ポジション を <ruby>目指<rt>めざ</rt></ruby>しています。
+
+---
+
+# 🧠 Core Competencies
+
+```mermaid
+mindmap
+  root((Engineering))
+    Backend
+      Node.js
+      NestJS
+      APIs
+      Microservices
+      Distributed Systems
+    Cloud
+      AWS
+      EC2
+      IAM
+      VPC
+      S3
+      RDS
+    DevOps
+      Terraform
+      Docker
+      Kubernetes
+      CI/CD
+      GitHub Actions
+    Systems
+      Linux
+      Networking
+      CCNA
+    Leadership
+      Teaching
+      Mentoring
+      Documentation
+      Communication
+```
+
+---
+
+# 🛠️ Tech Stack
+
+## 🚀 Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 🖥️ Systems & Infrastructure
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🎯 Current Goals
-- [ ] **AI & Big Data:** Concluding post-graduate studies in Artificial Intelligence and Big Data.
-- [ ] **Infrastructure:** Achieving CCNA/DevNet certification and integrating AI models with Python scripts.
-- [ ] **Tech Leadership:** Applying managerial processes to technical team and project management.
-- [ ] **Language:** Reaching proficiency in the Japanese language (JLPT Path).
+## 🌐 Frontend
 
-### 🤝 Vamos nos conectar?
-📸 **Instagram:** [@profalexandretolentino](https://instagram.com/profalexandretolentino)
-💬 Sinta-se à vontade para explorar, abrir issues ou mandar um "oi"!
-
-Ah, e lembre-se: o único erro que você não pode cometer é deixar de tentar. 😉
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-### 💬 Wisdom / Citação
-> "Quem ensina aprende ao ensinar. E quem aprende ensina ao aprender."
-> — **Paulo Freire** (Brazilian Educator & Philosopher)
->
+# 📈 Engineering Growth Path
+
+```mermaid
+timeline
+    title Career Evolution
+
+    2000s : IT Infrastructure
+           : Networking
+           : Systems Support
+
+    2010s : Software Development
+           : Backend Engineering
+           : APIs & Architecture
+
+    2020s : Cloud Computing
+           : DevOps Engineering
+           : Kubernetes & Automation
+           : Platform Engineering
+```
+
+---
+
+# 🎯 Current Focus
+
+- Cloud-Native Infrastructure
+- DevOps Engineering
+- Kubernetes Administration
+- Infrastructure Automation
+- AWS Architecture
+- CI/CD Pipelines
+- Observability & Reliability
+- Scalable Distributed Systems
+- Platform Engineering
+- SRE Concepts
+
+---
+
+# 🏆 Professional Differentials
+
+✅ 20+ Years in IT  
+✅ Backend + Infrastructure Hybrid Profile  
+✅ Strong Networking Foundation (CCNA-level)  
+✅ IT & Cisco Academy Instructor  
+✅ Experience Explaining Complex Technical Concepts  
+✅ Engineering-Driven Learning Approach  
+✅ Hands-on Real-World Projects  
+✅ Continuous Learning Mindset  
+
+---
+
+# 🌍 Languages
+
+| Language | Level |
+|---|---|
+| English | Professional |
+| Portuguese | Native |
+| Japanese | Intermediate (JLPT N5/N4 Path) |
+
+---
+
+# 📚 Currently Learning
+
+```txt
+AWS Advanced Architectures
+Kubernetes Administration
+Platform Engineering
+Infrastructure Automation
+Cloud Security Fundamentals
+Site Reliability Engineering (SRE)
+Japanese Language (JLPT Path)
+```
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-link)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-user)
+
+</div>
+
+---
+
+# 💬 Wisdom / Citação
+
+> "Quem ensina aprende ao ensinar. E quem aprende ensina ao aprender."  
+> — Paulo Freire (Brazilian Educator & Philosopher)
+
 > "He who teaches learns in the act of teaching, and he who learns teaches in the act of learning."
->
+
 > 「<ruby>教<rt>おし</rt></ruby>える<ruby>者<rt>もの</rt></ruby>は<ruby>教<rt>おし</rt></ruby>える<ruby>過程<rt>かてい</rt></ruby>で<ruby>学<rt>まな</rt></ruby>び、<ruby>学<rt>まな</rt></ruby>ぶ<ruby>者<rt>もの</rt></ruby>は<ruby>学<rt>まな</rt></ruby>ぶ<ruby>過程<rt>かてい</rt></ruby>で<ruby>教<rt>おし</rt></ruby>える。」
+
+---
+
+<div align="center">
+
+### ⚡ Building scalable systems, automating infrastructure, and evolving toward world-class Cloud & DevOps Engineering.
+
+</div>
