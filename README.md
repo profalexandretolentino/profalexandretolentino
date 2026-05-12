@@ -1,8 +1,9 @@
+<div align="center">
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello World | Olá Mundo | こんにちは
 
 # Backend Engineer → Cloud & DevOps Engineer
 
-<div align="center">
 
 ## Senior Backend Engineer | Cloud & DevOps Engineer | IT & Cisco Academy Instructor
 
@@ -90,7 +91,7 @@ DevOps Engineer と Cloud Engineer の ポジション を <ruby>目指<rt>め�
 
 ---
 
-# 🧠 Core Competencies
+# 🧠 Core Competencies | Competências Essenciais
 
 ```mermaid
 mindmap
@@ -166,7 +167,7 @@ mindmap
 
 ---
 
-# 📈 Engineering Growth Path
+# 📈 Engineering Growth Path | Trilha de Crescimento na Engenharia
 
 ```mermaid
 timeline
@@ -188,7 +189,7 @@ timeline
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Current Focus | Foco Atual
 
 - Cloud-Native Infrastructure
 - DevOps Engineering
@@ -203,30 +204,32 @@ timeline
 
 ---
 
-# 🏆 Professional Differentials
+# 🏆 Professional Differentials | Diferenciais Profissional
 
-✅ 20+ Years in IT  
-✅ Backend + Infrastructure Hybrid Profile  
-✅ Strong Networking Foundation (CCNA-level)  
-✅ IT & Cisco Academy Instructor  
-✅ Experience Explaining Complex Technical Concepts  
-✅ Engineering-Driven Learning Approach  
-✅ Hands-on Real-World Projects  
-✅ Continuous Learning Mindset  
+| En | Pt-br |
+|---|---|
+| ✅ 20+ Years in IT | Mais de 20 anos na área de TI |
+| ✅ Backend + Infrastructure Hybrid Profile  | Perfil híbrido de backend e infraestrutura |
+| ✅ Strong Networking Foundation (CCNA-level) | Sólida base em redes (nível CCNA) |
+| ✅ IT & Cisco Academy Instructor | Instrutor da Academia de TI e Cisco |
+| ✅ Experience Explaining Complex Technical Concepts | Experiência em explicar conceitos técnicos complexos | 
+| ✅ Engineering-Driven Learning Approach | Abordagem de aprendizagem orientada para a engenharia |
+| ✅ Hands-on Real-World Projects | Projetos práticos no mundo real |
+| ✅ Continuous Learning Mindset | Mentalidade de aprendizagem contínua |
 
 ---
 
-# 🌍 Languages
+# 🌍 Languages | Idiomas
 
 | Language | Level |
 |---|---|
-| English | Professional |
-| Portuguese | Native |
-| Japanese | Intermediate (JLPT N5/N4 Path) |
+| &#127482;&#127480; English | Professional |
+| &#127463;&#127479; Portuguese | Native |
+| &#127471;&#127477; Japanese | Intermediate (JLPT N3 Path) |
 
 ---
 
-# 📚 Currently Learning
+# 📚 Currently Learning | Aprendendo Atualmente
 
 ```txt
 AWS Advanced Architectures
@@ -240,18 +243,20 @@ Japanese Language (JLPT Path)
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect With Me | Conecte-se comigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-link)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-user)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandretolentino)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/profalexandretolentino)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/profalexandretolentino)
+[![Website](https://img.shields.io/badge/Website-00AA00?style=for-the-badge&logo=About.me&logoColor=white)](https://#)
 
 </div>
 
 ---
 
-# 💬 Wisdom / Citação
+# 💬 Wisdom | Citação
 
 > "Quem ensina aprende ao ensinar. E quem aprende ensina ao aprender."  
 > — Paulo Freire (Brazilian Educator & Philosopher)
@@ -264,6 +269,6 @@ Japanese Language (JLPT Path)
 
 <div align="center">
 
-### ⚡ Building scalable systems, automating infrastructure, and evolving toward world-class Cloud & DevOps Engineering.
+### ⚡ Building scalable systems, automating infrastructure, and evolving toward high-level Cloud & DevOps Engineering. <br><br> ⚡ Construir sistemas escaláveis, automatizar infraestrutura e evoluir rumo à Engenharia de Nuvem e DevOps de alto nível.
 
 </div>
